@@ -25,4 +25,7 @@
   text-align: left;
 }
 
-p {font-family: Consolas, monospace}
+p {
+  font-family: Consolas, monospace;
+  margin: 75px;
+}
